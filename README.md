@@ -1,5 +1,16 @@
 ### Hello, World! 👋
 
+<h1>Stats</h1>
+<a href="https://github-readme-stats.vercel.app/api?username=mscgoz&count_private=true&show_icons=true&theme=transparent">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mscgoz&count_private=true&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mscgoz&count_private=true&hide_progress=true&langs_count=8">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mscgoz&count_private=true&hide_progress=true&langs_count=8" />
+</a>
+
+
+<h1>About Me </h1>
+
 ```yaml
 name: Berker Goz
 located_in: Dortmund, Germany
