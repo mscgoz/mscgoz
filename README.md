@@ -5,7 +5,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mscgoz&count_private=true&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mscgoz&count_private=true&hide_progress=true&langs_count=8">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mscgoz&count_private=true&hide_progress=true&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mscgoz&count_private=true&langs_count=8" />
 </a>
 
 
