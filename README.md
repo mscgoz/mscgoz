@@ -4,8 +4,8 @@
 <a href="https://github-readme-stats-sigma-five.vercel.app/api?username=mscgoz&include_all_commits=true&count_private=true&show_icons=true&theme=transparent">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mscgoz&count_private=true&show_icons=true&theme=transparent" />
 </a>
-<a href="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mscgoz&count_private=true&hide_progress=true&langs_count=8">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mscgoz&count_private=true&langs_count=8" />
+<a href="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mscgoz&count_private=true&hide_progress=true">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mscgoz&count_private=true&hide_progress=true" />
 </a>
 
 
