@@ -32,7 +32,7 @@ fields_of_interests:
     "Web Applications",
   ]
   
-currently_learning: ["CS50 AI wiht Python"]
+currently_learning: ["CS50 AI with Python"]
 2023 Goals: ["Don't stop learning"]
 hobbies: ["Cooking", "DJing", "Meditation", "Yoga", "Comedy"]
 ```
