@@ -1,11 +1,13 @@
 ### Hello, World! 👋
 
+
+
 <h1>Stats</h1>
-<a href="https://github-readme-stats-sigma-five.vercel.app/api?username=mscgoz&include_all_commits=true&count_private=true&show_icons=true&theme=transparent">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mscgoz&count_private=true&show_icons=true&theme=transparent" />
+<a href="https://github-readme-stats-sigma-five.vercel.app/api?username=mscgoz&hide=contribs,prs&include_all_commits=true&count_private=true&show_icons=true&theme=transparent">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mscgoz&hide=contribs,prs&count_private=true&show_icons=true&theme=transparent" />
 </a>
-<a href="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mscgoz&hide_progress=true&count_private=true">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mscgoz&hide_progress=true&count_private=true" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mschoz&hide_progress=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mscgoz&hide_progress=true" />
 </a>
 
 
