@@ -15,7 +15,7 @@
 
 ```yaml
 name: Berker Goz
-located_in: Dortmund, Germany
+located_in: Essen, Germany
 education:
   [
     "BSc. Electronics Engineering",
@@ -27,13 +27,13 @@ fields_of_interests:
   [
     "Industry 4.0",
     "Agile Manufacturing",
-    "Adaptive Production",
+    "Social Media",
     "Sustainability",
     "Web Applications",
   ]
   
-currently_learning: ["CS50 AI with Python"]
-2023 Goals: ["Don't stop learning"]
+currently_learning: ["Data Science"]
+2024 Goals: ["Keep on learning"]
 hobbies: ["Cooking", "DJing", "Meditation", "Yoga", "Comedy"]
 ```
 
