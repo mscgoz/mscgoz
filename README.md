@@ -29,7 +29,7 @@ fields_of_interests:
     "Agile Manufacturing",
     "Social Media",
     "Sustainability",
-    "Web Applications",
+    "Data Analysis",
   ]
   
 currently_learning: ["Data Science"]
