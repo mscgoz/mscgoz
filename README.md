@@ -17,24 +17,30 @@
 name: Berker Goz
 located_in: Essen, Germany
 education:
-  [
-    "BSc. Electronics Engineering",
-    "BSc. Industrial Engineering",
-    "MSc. International Management",
-  ]
+  
+    - BSc. Electronics Engineering
+    - BSc. Industrial Engineering
+    - MSc. International Management
+  
 
 fields_of_interests:
-  [
-    "Industry 4.0",
-    "Agile Manufacturing",
-    "Social Media",
-    "Sustainability",
-    "Data Analysis",
-  ]
+
+    - Sustainability 
+    - Data Analysis
+    - Cloud
+    - Consumer Behaviour 
   
-currently_learning: ["Data Science"]
-2024 Goals: ["Keep on learning"]
-hobbies: ["Cooking", "DJing", "Meditation", "Yoga", "Comedy"]
+  
+currently_learning: "Analytics & AWS"
+
+2024 Goals: Keep on learning
+
+hobbies:
+    - Cooking
+    - DJing
+    - Meditation
+    - Yoga
+    - Comedy
 ```
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
