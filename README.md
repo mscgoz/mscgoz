@@ -36,6 +36,7 @@ currently_learning: "Analytics & AWS"
 2024_goals: Keep on learning
 
 hobbies:
+
     - Cooking
     - DJing
     - Meditation
