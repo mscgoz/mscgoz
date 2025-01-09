@@ -33,7 +33,7 @@ fields_of_interests:
   
 currently_learning: "Analytics & AWS"
 
-2024_goals: Keep on learning
+2025_goals: More AI, More FUN
 
 hobbies:
 
