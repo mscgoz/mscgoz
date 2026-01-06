@@ -33,7 +33,7 @@ fields_of_interests:
   
 currently_learning: "Analytics & AWS"
 
-2025_goals: More AI, More FUN
+2026_goals: Building modern data architectures on Cloud and have fun doing it!
 
 hobbies:
 
