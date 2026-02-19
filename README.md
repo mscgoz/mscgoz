@@ -22,13 +22,12 @@ education:
     - BSc. Industrial Engineering
     - MSc. International Management
   
-
 fields_of_interests:
 
-    - Sustainability 
-    - Data Analysis
-    - Cloud
-    - Consumer Behaviour 
+    - Modern Data Architectures 
+    - Data Analytics
+    - Cloud Engineering
+    - AI Implementation
   
   
 currently_learning: "Analytics & AWS"
@@ -42,6 +41,7 @@ hobbies:
     - Meditation
     - Yoga
     - Comedy
+    - Tennis
 ```
 
 <h2> 🚀 &nbsp; Tools I Have Used</h2>
